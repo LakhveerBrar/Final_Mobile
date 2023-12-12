@@ -1,0 +1,26 @@
+body {
+    background-color: #d4d4d4; 
+    color: white;
+}
+
+
+.navbar {
+    background-color: #75a9e0; 
+    color: wheat;
+}
+
+h1 {
+    text-align: center;
+    color: #1666b6;
+    
+}
+
+
+.account-figure {
+    margin-bottom: 20px;
+}
+
+.home-loan-section,
+.car-loan-section {
+    padding: 20px;
+}
